@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the iotDpsClient API (version 2018-01-22).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/deviceprovisioningservices-iotdps/2018-01-22/swagger.json<br/>
-Generated at: 2019-05-07T17:38:04+03:00
+Generated at: 2019-06-11T18:13:57+03:00
 
 ## API Description
 
